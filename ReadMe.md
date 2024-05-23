@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Ciencia de Dados<br>Formado em Ciencia da Computação<br>Pos-Graduado em Mecatronica e Didatica para Curso Superior<br>Estou à procura de oportunidade na área de Ciencia de Dados
+Pós Graduando em de Ciencia de Dados<br>Graduado em Ciencia da Computação<br>Pos-Graduado em Mecatronica e Didatica para Curso Superior<br>Estou à procura de oportunidade na área de Ciencia de Dados
 
 
 ## 🌐 Socials:
