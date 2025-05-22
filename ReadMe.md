@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pós Graduando em de Ciencia de Dados<br>Graduado em Ciencia da Computação<br>Pos-Graduado em Mecatronica, Didatica para Curso Superior, Data Science and Machine Learning<br>Estou à procura de oportunidade na área de Ciencia de Dados
+Graduado em Ciência da Computação<br>Pós Graduando em Data Science and Machine Learning<br>Pós-Graduado em Mecatronica e Automação Industrial<br>Pós-Graduado em Didatica para Curso Superior<br><br>Estou à procura de oportunidade na área de Ciencia de Dados
 
 
 ## 🌐 Socials:
